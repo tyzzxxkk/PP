@@ -1,5 +1,7 @@
-#name = input("이름을 입력하세요 : ")
-#print("안녕하세요. 저는", name, "입니다.")
+#이름 출력 코드 작성
 
-name = "기태연"
-print(name)
+#name = input("이름을 입력하세요 : ") #name 변수를 만들어 이름 입력 받기
+#print("안녕하세요. 저는", name, "입니다.") #입력받은 이름을 포함하여 출력
+
+name = "기태연" #name 변수를 기태연으로 설정
+print(name) #이름 출력
