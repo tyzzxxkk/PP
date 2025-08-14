@@ -1,6 +1,9 @@
 fruits = []
 
-item = input()
+item = input("과일 입력 : ")
 
-print(fruits.append())
-print(fruits.remo)
+fruits.append(item)
+print(fruits)
+
+fruits.remove(item)
+print(fruits)
