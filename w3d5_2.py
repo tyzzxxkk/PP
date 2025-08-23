@@ -7,5 +7,5 @@
 
 score = int(input("점수를 입력해주세요 : "))
 
-result = "합격!" if score >= 60 else "불합격.."
-print(result)
+result = "합격!" if score >= 60 else "불합격.." # 한줄로 조건문 사용
+print(result) 
